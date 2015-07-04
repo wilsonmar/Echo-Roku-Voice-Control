@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "RokuIntent",
+      "slots": [
+        {
+          "name": "Control",
+          "type": "LITERAL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+RokuIntent {play|Control}
+RokuIntent {pause|Control}
+RokuIntent {search|Control}
+RokuIntent {instant replay|Control}
+RokuIntent {show an instant replay|Control}
+RokuIntent {do an instant replay|Control}
+RokuIntent {show a instant replay|Control}
+RokuIntent {do a instant replay|Control}
+RokuIntent {back|Control}
+RokuIntent {go back|Control}
+RokuIntent {select|Control}
+RokuIntent {go home|Control}
+RokuIntent {home|Control}
+RokuIntent {go left|Control}
+RokuIntent {left|Control}
+RokuIntent {go right|Control}
+RokuIntent {right|Control}
+RokuIntent {go up|Control}
+RokuIntent {up|Control}
+RokuIntent {go down|Control}
+RokuIntent {down|Control}
+RokuIntent {launch hulu plus|Control}
+RokuIntent {launch hulu|Control}
+RokuIntent {launch netflix|Control}
+RokuIntent {launch plex|Control}
+RokuIntent {launch vevo|Control}
+RokuIntent {hulu plus|Control}
+RokuIntent {hulu|Control}
+RokuIntent {netflix|Control}
+RokuIntent {plex|Control}
+RokuIntent {vevo|Control}
+RokuIntent {start hulu plus|Control}
+RokuIntent {start hulu|Control}
+RokuIntent {start netflix|Control}
+RokuIntent {start plex|Control}
+RokuIntent {start vevo|Control}
