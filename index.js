@@ -3,12 +3,12 @@ var http = require('http');
 // Your external IP. Alexa can only access publically-accessible IPs. No LAN access unfortunately.
 // Make sure to set up port fortwarding on port 8060 to your Roku's IP on your router.
 
-var local_ip = 'xxx.xxx.xxx.xxx';
+var local_ip = '72.21.64.75';
 
 /**
  * App ID for the skill
  */
-var APP_ID = undefined; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+var APP_ID = "amzn1.echo-sdk-ams.app.495629083449"; //replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 
 /**
  * The AlexaSkill prototype and helper functions
