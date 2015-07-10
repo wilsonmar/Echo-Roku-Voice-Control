@@ -1,7 +1,8 @@
 var http = require('http');
 
 // Your external IP. Alexa can only access publically-accessible IPs. No LAN access unfortunately.
-// Make sure to set up port fortwarding on port 8060 to your Roku's IP on your router.
+// Find it using http://whatismyip.com 
+// Make sure to set up port forwarding on port 8060 to your Roku's IP on your router.
 
 var local_ip = 'xxx.xxx.xxx.xxx';
 
